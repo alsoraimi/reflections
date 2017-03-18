@@ -1,0 +1,32 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I thought it was a great tool, it basically tells you whats different between the two versions and what was added and removed, which is extremely helpfull in finding any bug or error.  
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+The main reason i feel like it could make a more efficient programmer in the long term is because you can look through all previous files and see what you did right or wron within each version, and you can see exactly what you changed or didnt change to improve the file.  
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+I think some of the pros of manually choosing when to create a commit is you can clearly see the changes youve made between commits, and it makes more sense to only save a dif commit when you have a logical change.  if you have it automatically then youll have a bunch of commits, some that really do not differ from earlier commits.  a con is that sometimes you can forget to save a commit and you lose progress or you dont see the difference between 2 versions.  
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+VCS like git end up being used for writing applications with lots of code from seperate files.  the files together make up the application.  
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+after downloading the file on your console youd just input "git log" to pull up the different commits done over time, after finding the correct commit your looking for, you can copy the ID and preform "git diff" with another commit to compare the 2.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+It makes you more confident because you know that even if it could end up ruining your app, you have dif versions of your applications that you have as backup jsut in case something happens.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I would use it for downloading new files and for version control. 

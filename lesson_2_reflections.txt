@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a respository you are able to track and change the app using git. you can make commits as well.
